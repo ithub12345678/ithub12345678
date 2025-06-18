@@ -78,4 +78,9 @@
   <a href="mailto:anshullaxane@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/anshul-laxane-45458426a"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ithub12345678"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href=(https://your-portfolio-link.com><img src = "https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  🔄 I’m currently learning & growing every day. Thanks for stopping by!
 </p>
