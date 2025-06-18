@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Anshul 👨‍🎓</h1>
+<h1 align="center">Hey, I'm Anshul 👨‍🎓</h1> 
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/profile-image.png" width="150" alt="Profile Image"/>
+</p>
+
 
 <p align="center">
   🔬💻 Bioengineer | 🧠📊 Innovator | 🛠️ Problem Solver  | 🧪🧬💻 Bioinformatics Enthusiast
