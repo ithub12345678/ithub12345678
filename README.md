@@ -22,7 +22,7 @@
 
 ## 🚀 Projects That I’m Proud Of
 
-✨ **[Trash Finding Game](https://github.com/anshullaxane/trash-finding-game)**  
+✨ **[Trash Finding Game](https://github.com/ithub12345678/Trash-Finding-Game)**  
 > Built an urban cleanliness game with Google Maps API to spread cleanliness awareness.  
 
 🌿 **[Plant Health Monitoring System](https://github.com/your-username/plant-health-monitor)**  
