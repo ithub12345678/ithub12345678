@@ -22,8 +22,8 @@
 
 ## 🚀 Projects That I’m Proud Of
 
-✨ **[Trash Finding Game](https://github.com/your-username/trash-finding-game)**  
-> Built an urban cleanliness game with Google Maps API.  
+✨ **[Trash Finding Game](https://github.com/anshullaxane/trash-finding-game)**  
+> Built an urban cleanliness game with Google Maps API to spread cleanliness awareness.  
 
 🌿 **[Plant Health Monitoring System](https://github.com/your-username/plant-health-monitor)**  
 > Sensors + Arduino = Smart Plant Care 🌱  
