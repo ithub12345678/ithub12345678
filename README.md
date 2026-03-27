@@ -85,7 +85,7 @@ self-reliant future.
   <a href="mailto:anshullaxane@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/anshul-laxane-45458426a"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ithub12345678"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://rosalind.info/users/Chocopie/"><img src = "https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://rosalind.info/users/Chocopie/"><img src = "https://github.com/ithub12345678/ithub12345678/blob/18abc54e6f415a0c5ca4c6bf16f192378ef0a4a0/Untitled%20design.png" width = "90" height = "80"/></a>
 </p>
 
 <p align="center">
