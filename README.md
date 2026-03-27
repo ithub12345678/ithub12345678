@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Anshul 👨‍🎓</h1> 
 <p align="center">
-  <img src="https://github.com/ithub12345678/ithub12345678/blob/141c94ec63959839bb9cadbfce8bec2cec1470b4/anshullaxane.png" width="150" alt="Profile Image"/>
+  <img src="Profile_Pic.png" width="150" alt="Profile Image"/>
 </p>
 
 
