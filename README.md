@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Anshul 👨‍🎓</h1> 
 <p align="center">
-  <img src="x" width="150" alt="Profile Image"/>
+  <img src="https://github.com/ithub12345678/ithub12345678/blob/37022364733427650e95caea52a7b6be2a4787a8/ChatGPT%20Image%20Mar%2027%2C%202026%2C%2011_02_12%20PM.png" width="150" alt="Profile Image"/>
 </p>
 
 
