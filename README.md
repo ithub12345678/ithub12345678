@@ -23,14 +23,17 @@
 
 ## 🚀 Projects That I’m Proud Of (# Under construction)
 
-✨ **[Trash Finding Game](https://github.com/ithub12345678/Trash_Finding-Game)**  
-> Built an urban cleanliness game with Google Maps API to spread cleanliness awareness.  
+✨ **[DNA-analysis-toolkit-using-Python](https://github.com/ithub12345678/DNA-analysis-toolkit-using-Python)**  
+> Developed a DNA analysis tool featuring a GC content analyzer and ORF finder using Python, deployed via Streamlit.
 
-🌿 **[Plant Health Monitoring System](https://github.com/your-username/plant-health-monitor)**  
-> Sensors + Arduino = Smart Plant Care 🌱  
+🚮  **[Trash_Finding-Game](https://github.com/ithub12345678/Trash_Finding-Game)**  
+> It aims to raise awareness about urban cleanliness and the importance of keeping cities clean. ♲
 
-🧬 **[Genome Analysis Toolkit](https://github.com/your-username/bioinfo-toolkit)**  
-> Bioinformatics scripts to process FASTA sequences.  
+💥 **[Antimicrobial Resistance Prediction](https://github.com/ithub12345678/Antimicrobial-Resistance-Prediction)**  
+> Prediction of antimicrobial resistance based on whole-genome sequencing and machine learning. [Currently working, Repo under work]
+
+📊 **[Credit-Card-Finance-insights-Dashboard](https://github.com/ithub12345678/Credit-Card-Finance-insights-Dashboard)**  
+> To design and implement an interactive weekly credit card dashboard that delivers real-time, data-driven insights into revenue performance and customer behavior.  
 
 ---
 
